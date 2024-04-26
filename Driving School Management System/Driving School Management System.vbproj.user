@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="courseAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="courseForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboardForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="enrollinstructor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="enrollStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="instructorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatecourse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateinstructor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatestudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
